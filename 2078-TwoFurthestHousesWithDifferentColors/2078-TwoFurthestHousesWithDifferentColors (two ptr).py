@@ -5,6 +5,7 @@ class Solution:
         double two pointerrrr
 
         1. had a bit of small trouble working with indices like len(colors) - l - 1, other than that im optimal yay
+        2. also maybe shouldve used a forloop tbh
 
         0 ms runtime beats 100
         """
