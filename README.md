@@ -1,3 +1,5 @@
+GRINDING sql rn
+
 goals:
 
 - greedy 
