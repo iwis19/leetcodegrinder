@@ -2,7 +2,7 @@ class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
 
         """
-        lesss gooo
+        lesss gooo, could also do dx, dy = -dy, dx from matrix rotation m,ethod
 
         0 ms runtime beats 100%
         """
