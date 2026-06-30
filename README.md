@@ -1,13 +1,16 @@
-GRINDING sql rn
+GRINDING trees, dailies
 
-goals:
+untouched:
 
 - greedy 
-- finish up on bfs dfs binary trees
 - bitwise ops
-- brush up on heaps sll dll and how to implement
 - prefix sum
 - dp
 - two ptr and sliding window
-- brush up on search and sort
 - graphs
+
+in progress:
+- bfs dfs binary trees
+- singly and doubly ll
+- heaps
+- sql (dont remember much but probably no more in lc setting)
