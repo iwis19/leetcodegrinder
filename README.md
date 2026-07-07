@@ -7,7 +7,7 @@ untouched:
 - prefix sum
 - dp
 - two ptr and sliding window
-- graphs
+- graph theory + implementations
 
 in progress:
 - bfs dfs binary trees
