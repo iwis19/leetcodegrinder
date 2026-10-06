@@ -1,16 +1,12 @@
-GRINDING trees, dailies
-
 untouched:
 
-- greedy 
-- bitwise ops
 - prefix sum
-- dp
-- two ptr and sliding window
-- graph theory + implementations
+- advanced dp
+- sliding window
+- graph theory
 
 in progress:
-- bfs dfs binary trees
-- singly and doubly ll
-- heaps
-- sql (dont remember much but probably no more in lc setting)
+- recursion
+- bitwise ops
+- impl
+- greedy 
