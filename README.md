@@ -1,12 +1,12 @@
-untouched:
-
-- prefix sum
-- advanced dp
+do:
+- 2d dp
 - sliding window
-- graph theory
-
-in progress:
-- recursion
-- bitwise ops
 - impl
 - greedy 
+
+in progress:
+- knapsack
+- graph
+- recursion
+- past struggle problems
+
